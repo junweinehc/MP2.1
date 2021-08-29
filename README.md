@@ -4,7 +4,7 @@ In this 4-part MP, you will get familiar with building and evaluating Search Eng
 
 ## Part 1
 
-### Due: Sept 20, 2020 at 11:59 pm
+### Due: Sept 12, 2021 at 11:59 pm
 
 We will start by building a dataset consisting of the homepages of faculty memebers from different universities' Engineering and Science departments.
 To achieve this, you first need to identify the faculty directory listing page where all the faculty members of your chosen department are listed and get the urls for the homepages of all faculty members.
